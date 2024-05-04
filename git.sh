@@ -1,1 +1,1 @@
-git remote add origin https://github.com/Vainres/Proj4.git
+git remote set-url origin git@github.com:Vainres/Proj4.git
